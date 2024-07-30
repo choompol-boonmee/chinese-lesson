@@ -264,3 +264,8 @@ Qiānzì
 
 签名 เซ็นชื่อ
 
+Dènglìjūn
+邓丽君
+
+Yuèliàng dàibiǎo wǒ de xīn
+月亮代表我的心
