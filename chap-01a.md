@@ -1,3 +1,5 @@
+----- 1
+
 Zhōng péng
 钟鹏
 
@@ -6,6 +8,8 @@ Nǐ jiào shénme míngzì ?
 
 Nǐ shì zuò shénme de
 你是做什么的？
+
+----- 2
 
 Chūcì jiànmiàn
 初次见面？
@@ -58,6 +62,8 @@ Diànnǎo
 Wǒ huì
 我会
 จะ/เป็น
+
+----- 3
 
 Zhǔnbèi hǎo le ma
 准备好了吗
@@ -116,6 +122,7 @@ Shǒujī
 手机 
 mobile phone
 
+----- 4
 
 Wàiguó rén
 外国人
@@ -165,6 +172,8 @@ Dài wǒ qù kěyǐ ma
 
 Wǒ èle
 我饿了
+
+----- 5
 
 Duōshǎo qián
 多少钱
